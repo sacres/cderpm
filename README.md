@@ -33,3 +33,7 @@ LICENSE
 
 All of the files in this project are under the LGPLv2+ license.  A copy of the
 license is available in the COPYING.LIB file.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sacres/cderpm/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
